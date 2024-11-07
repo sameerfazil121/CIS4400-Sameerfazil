@@ -15,6 +15,10 @@
 **Data Source:**
 
 Link:
+Data was acquired from Amazon’s S3 cloud storage where citibike is publicly hosting their data. 
+
 https://citibikenyc.com/system-data
+https://s3.amazonaws.com/tripdata/index.html
+
 
 
