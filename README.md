@@ -15,10 +15,12 @@
 **Data Source:**
 
 Link:
-Data was acquired from Amazon’s S3 cloud storage where citibike is publicly hosting their data. 
+Data was acquired from Amazon’s S3 cloud storage where citibike is publicly hosting their data. Using July (7) 2024 data. Data #1. CVS will be called. 202407-citibike-tripdata.zip
 
 - https://citibikenyc.com/system-data
 - https://s3.amazonaws.com/tripdata/index.html
+
+
 
 
 
