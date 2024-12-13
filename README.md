@@ -2,7 +2,7 @@
 
 **Business Requirements:**
 
-- Analyze User Behavior Differences by Time: Examine differences in ride behavior across different hours within a day. Such as Morning Vs. Evenings.
+- Analyze User Behavior by Membership Type. By comparing usage patterns (ride counts, trip durations, peak times) between members and casual riders.
 - Identify Peak Usage Times: Determine the busiest times of day and the busiest days of the week in July to understand demand fluctuations.
 
 **Functional Requirements:** 
