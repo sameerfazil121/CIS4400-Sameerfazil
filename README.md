@@ -3,16 +3,17 @@
 **Business Requirements:**
 
 - Analyze User Behavior by Membership Type. By comparing usage patterns (ride counts, trip durations, peak times) between members and casual riders.
-- Identify Peak Usage Times: Determine the busiest times of day and the busiest days of the week in July to understand demand fluctuations.
+- Analyze Trip Durations and Routes: Identify average trip durations and popular start and end stations to optimize station placement and improve user experience.
 
 **Functional Requirements:** 
 
-- Behavior Comparison:The system will compare user behavior across different times of day. Morning Vs Evening.
-- Daily and Hourly Usage Analysis: The system will analyze ridership data to breakdown citibike usage by each hour within a day.
-- Peak Time Identification: The system will identify the busiest times of day and busiest days of the week, ranking peak hours during the month of July.
-- Members vs Casuals: System will evaluate overall citibike activity between a paid premium member versus a casual rider.
+- Analyze User Behavior by Membership Type: The system will compare ride counts, trip durations, and peak times between casual and member riders.
+- Analyze Trip Durations and Routes:The system willd display the average trip durations.
+- Map Integration: The system Will display top 10 station locations on an interactive NYC map.
+- Peak Time Analysis: The system will display a breakdown of hourly usage patterns by membership type (casual vs. members) to identify peak usage hours.
 
 **Data Source:**
+
 
 Link:
 Data was acquired from Amazon’s S3 cloud storage where citibike is publicly hosting their data. Using July (7) 2024 data. Data #1. CVS will be called. 202407-citibike-tripdata.zip
