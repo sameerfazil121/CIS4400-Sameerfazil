@@ -1,0 +1,15 @@
+1.Members vs Casual Users (July)
+A pie chart comparing the number of rides taken by members and casual users during July. Members accounted for the majority of the rides with 758,225 trips, while casual users took 241,775 trips, emphasizing the dominance of members in Citibike’s usage.
+	
+2.Hourly Usage by Member Type (July)
+A line chart showing the count of rides taken by members and casual users throughout the hours of the day in July. Members peak during commuting hours (8 AM and 6 PM), reflecting workday commuting patterns. Casual users show a steadier, lower trend, with a slight increase during mid-day, likely indicating recreational or tourist activity.
+
+3.Average Trip Duration: Members vs Casual Users (July)
+A bar chart comparing the average trip duration (in minutes) for members and casual users. Casual users have significantly longer trip durations, averaging over 24 minutes per ride, while members average about 12 minutes per ride. 
+
+4.Top 10 CitiBike Stations (July)
+A map visualization showing the top 10 most popular starting stations in July. 
+
+5.Trip Duration Length: Members vs Casual Users (July)
+A histogram illustrating the distribution of trip durations by members and casual users. Most trips for both groups fall under the 0–10 minute range, with members clustering more tightly around shorter durations. Casual users have a wider spread, with more trips extending beyond 15 minutes.
+
